@@ -1,0 +1,1 @@
+# EvanAdinolfeTimeSeriesHW2
